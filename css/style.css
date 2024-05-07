@@ -1,0 +1,34 @@
+@font-face {
+    font-family: 'icomoon';
+    src: url('../fonts/icomoon.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+}
+
+input, textarea {
+    font: inherit;
+    box-sizing: border-box;
+}
+
+body {
+    width: 50%;
+    margin: auto;
+}
+
+.header {
+    margin: auto;
+    background-color: gray;
+}
+
+.vacancy {
+padding: 8px;
+border: 1px solid grey;
+margin-bottom: 12px;
+border-radius: 8px;
+}
+
+.filters {
+margin-bottom: 16px;
+}
+
